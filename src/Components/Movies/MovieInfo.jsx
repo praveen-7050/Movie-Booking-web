@@ -1,7 +1,7 @@
 // Pages/MovieInfo.jsx
 import React, { useEffect, useState } from "react";
 import { useParams, useNavigate } from "react-router-dom";
-import movies from "../../Data/Movies.json"
+import movies from "../../Data/movies.json"
 import "../../assets/styles/MovieInfo.css";
 
 const MovieInfo = () => {
