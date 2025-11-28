@@ -1,0 +1,71 @@
+/* navbar.css */
+
+/* Navbar base */
+.navbar {
+  padding: 0.8rem 2rem;
+  background-color: #1a1a1a; /* Dark background */
+}
+
+/* Brand */
+.navbar-brand {
+  color: #ffcc00;
+  font-weight: 700;
+  letter-spacing: 1px;
+}
+
+/* Nav links */
+.navbar-nav .nav-link {
+  color: #fff;
+  font-weight: 500;
+  transition: color 0.3s;
+}
+
+.navbar-nav .nav-link:hover {
+  color: #ffcc00;
+  text-decoration: underline;
+}
+
+/* Buttons */
+.navbar-nav .btn {
+  padding: 0.35rem 1rem;
+  font-weight: 600;
+  border-radius: 4px;
+  transition: all 0.3s;
+}
+
+.navbar-nav .btn-primary {
+  background-color: #ffcc00;
+  border: none;
+  color: #1a1a1a;
+}
+
+.navbar-nav .btn-primary:hover {
+  background-color: #e6b800;
+  color: #1a1a1a;
+}
+
+.navbar-nav .btn-outline-light {
+  border: 1px solid #fff;
+  color: #fff;
+}
+
+.navbar-nav .btn-outline-light:hover {
+  background-color: #fff;
+  color: #1a1a1a;
+}
+
+/* Toggler icon */
+.navbar-toggler-icon {
+  filter: invert(1); /* Makes the hamburger icon white */
+}
+
+/* Mobile adjustments */
+@media (max-width: 768px) {
+  .navbar-nav.mx-auto {
+    margin-bottom: 1rem;
+  }
+
+  .navbar-nav.ms-auto {
+    justify-content: flex-start;
+  }
+}

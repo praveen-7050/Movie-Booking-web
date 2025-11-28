@@ -1,0 +1,228 @@
+.loading-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 50vh;
+  color: #ff3c00; 
+  font-family: "Poppins", sans-serif;
+}
+
+.loading-container h2 {
+  margin-top: 20px;
+  font-size: 1.5rem;
+  opacity: 0;
+  animation: fadeInText 1s ease forwards 0.5s;
+}
+
+.spinner {
+  width: 50px;
+  height: 50px;
+  border: 5px solid #444; 
+  border-top: 5px solid #ff3c00; 
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+}
+
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+
+@keyframes fadeInText {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+.movie-info-container {
+  background: #0a0a0f; 
+  color: #fff;
+  min-height: 100vh;
+  padding-bottom: 50px;
+  font-family: "Poppins", sans-serif;
+}
+.movie-banner {
+  width: 100%;
+  height: 65vh;
+  position: relative;
+  overflow: hidden;
+}
+.movie-banner-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  filter: brightness(75%);
+  animation: fadeIn 1s ease-in-out;
+}
+.movie-banner-overlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to bottom, transparent, rgba(0,0,0,0.9));
+}
+.movie-banner-content {
+  position: absolute;
+  bottom: 40px;
+  left: 60px;
+  color: #fff;
+  animation: slideUp 1s ease-in-out;
+}
+.movie-title {
+  font-size: 3rem;
+  font-weight: 900;
+  color: #ff3c00;
+  cursor: pointer;
+}
+.movie-genre,
+.movie-details {
+  opacity: 0.8;
+  font-size: 1.2rem;
+  cursor: pointer;
+}
+.section-heading {
+  font-weight: bold;
+  margin-bottom: 15px;
+  font-size: 1.5rem;
+  color: #ff3c00;  
+  position: relative;
+  animation: fadeInUp 1s ease forwards;
+  cursor: pointer;
+}
+.section-heading::after {
+  content: "";
+  display: block;
+  width: 60px;
+  height: 4px;
+  background-color: #ff3c00;
+  margin-top: 6px;
+  border-radius: 2px;
+  animation: expandLine 1s ease forwards;
+  cursor: pointer;
+}
+.movie-description {
+  line-height: 1.7;
+  opacity: 0.9;
+  color: #e0e0e0;
+  animation: fadeIn 1s ease forwards;
+  cursor: pointer;
+}
+h3 {
+  font-weight: 600;
+  font-size: 1.4rem;
+  margin-top: 25px;
+  margin-bottom: 10px;
+  color: #00bfff; 
+  animation: fadeInLeft 1s ease forwards;
+}
+
+.movie-cast-list {
+  list-style: none;
+  padding-left: 0;
+  color: #cfcfcf;
+  font-size: 1rem;
+  margin-bottom: 25px;
+  animation: fadeInUp 1s ease forwards;
+  cursor: pointer;
+}
+
+.movie-cast-list li {
+  padding: 4px 0;
+  position: relative;
+  transition: transform 0.3s ease, color 0.3s ease;
+  cursor: pointer;
+}
+.movie-cast-list li:hover {
+  color: #ff3c00;
+  transform: translateX(5px);
+  cursor: pointer;
+}
+strong {
+  color: #ff8c00;
+}
+.booking-card {
+  background: #1f1f2e;
+  padding: 25px;
+  border-radius: 15px;
+  margin-top: 30px;
+  animation: fadeIn 1s ease-in-out;
+}
+.booking-desc {
+  opacity: 0.8;
+}
+.booking-card h3 {
+  color: #ff3c00;
+}
+.booking-card p {
+  opacity: 0.8;
+  margin-bottom: 15px;
+}
+.booking-card button {
+  background-color: #ff3c00;
+  border: none;
+  color: #fff;
+  padding: 10px 15px;
+  font-weight: 600;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+.booking-card button:hover {
+  background-color: #ff6b33;
+  transform: scale(1.05);
+}
+@keyframes slideUp {
+  from {
+    opacity: 0;
+    transform: translateY(40px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0px);
+  }
+}
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+@keyframes fadeInLeft {
+  from {
+    opacity: 0;
+    transform: translateX(-20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+@keyframes expandLine {
+  0% {
+    width: 0;
+  }
+  100% {
+    width: 60px;
+  }
+}

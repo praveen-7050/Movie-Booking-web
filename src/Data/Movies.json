@@ -1,0 +1,234 @@
+[
+  {
+    "id": 1,
+    "title": "Jana Nayagan",
+    "poster": "https://in.bmscdn.com/events/moviecard/ET00430817.jpg",
+    "banner": "https://assets-in.bmscdn.com/discovery-catalog/events/et00430817-bmmentyrvc-landscape.jpg",
+    "genre": "Political Action Thriller",
+    "rating": 5,
+    "duration": "2h 45m",
+    "year": "2026",
+    "language": "Tamil",
+    "description": "Jana Nayagan is an upcoming Tamil-language political action thriller film directed by H. Vinoth starring Vijay, Pooja Hegde, and Bobby Deol. It is notable as Vijay's final film before his anticipated entry into politics.",
+    "trailer": "upcoming",
+    "cast": {
+      "lead": ["Vijay", "Pooja Hegde", "Bobby Deol"],
+      "supporting": ["Mamitha Baiju", "Gautham Vasudev Menon", "Prakash Raj", "Narain", "Priyamani", "Teejay Arunasalam", "Varalaxmi Sarathkumar", "Monisha Blessy", "Shruti Haasan"]
+    },
+    "crew": {
+      "director": "H. Vinoth",
+      "writer": "H. Vinoth",
+      "music": "Anirudh Ravichander",
+      "cinematography": "Sathyan Sooryan",
+      "editor": "Pradeep E.Ragav"
+    }
+  },
+  {
+    "id": 2,
+    "title": "Dude",
+    "poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/dude-et00445596-1759640703.jpg",
+    "banner": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/dude-et00445596-1759640703.jpg",
+    "genre": "Comedy, Family",
+    "rating": 4.8,
+    "duration": "2h 10m",
+    "year": "2025",
+    "language": "Tamil",
+    "description": "The movie Dude is a Tamil romantic comedy-drama starring Pradeep Ranganathan and Mamitha Baiju, focusing on the complicated relationship between childhood friends.",
+    "trailer": "https://youtu.be/pyc68HA38Kg",
+    "cast": {
+      "lead": ["Pradeep Ranganathan", "Mamitha Baiju"],
+      "supporting": ["R. Sarathkumar", "Hridhu Haroon", "Rohini", "Neha Shetty", "Aishwarya Sharma"]
+    },
+    "crew": {
+      "director": "Keerthiswaran",
+      "writer": "Keerthiswaran",
+      "music": "Sai Abhyankkar",
+      "cinematography": "Niketh Bommi",
+      "editor": "Barath Vikraman"
+    }
+  },
+  {
+    "id": 3,
+    "title": "Leo",
+    "poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/leo-et00351731-1675663884.jpg",
+    "banner": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/leo-et00351731-1675663884.jpg",
+    "genre": "Action, Thriller, Drama",
+    "rating": 4.8,
+    "duration": "2h 30m",
+    "year": "2023",
+    "language": "Tamil",
+    "description": "Leo is about a mild-mannered café owner revealed to be a former gangster named Leo Das from a powerful crime syndicate.",
+    "trailer": "https://youtu.be/Po3jStA673E",
+    "cast": {
+      "lead": ["Vijay"],
+      "supporting": ["Sanjay Dutt", "Arjun", "Trisha", "Gautham Vasudev Menon", "Mysskin", "Madonna Sebastian", "George Maryan", "Mansoor Ali Khan", "Priya Anand", "Mathew Thomas"]
+    },
+    "crew": {
+      "director": "Lokesh Kanagaraj",
+      "writers": ["Lokesh Kanagaraj", "Rathna Kumar", "Deeraj Vaidy"],
+      "music": "Anirudh Ravichander",
+      "cinematography": "Manoj Paramahamsa",
+      "editor": "Philomin Raj"
+    }
+  },
+  {
+    "id": 4,
+    "title": "Kiss",
+    "poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/kiss-tamil-et00462731-1757918833.jpg",
+    "banner": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/kiss-tamil-et00462731-1757918833.jpg",
+    "genre": "Romance, Drama",
+    "rating": 4.8,
+    "duration": "2h 15m",
+    "year": "2019",
+    "language": "Tamil",
+    "description": "Kiss is a romantic drama about a modern, traditional college student and a rich, carefree guy.",
+    "trailer": "https://youtu.be/u2XelePLU4Y",
+    "cast": {
+      "lead": ["Kavin"],
+      "supporting": ["VTV Ganesh", "RJ Vijay", "Devayani", "Kausalya", "Prabhu", "Rao Ramesh", "Mysskin"]
+    },
+    "crew": {
+      "director": "Sathish Krishnan",
+      "writer": "Sathish Krishnan",
+      "music": "Jen Martin",
+      "cinematography": "Harish Kannan",
+      "editor": "RC Pranav"
+    }
+  },
+  {
+    "id": 5,
+    "title": "Thalaivan Thalaivii",
+    "poster": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-250,h-390/et00444587-epjpypslqp-portrait.jpg",
+    "banner": "https://static.toiimg.com/thumb/msid-120851772,width-1280,resizemode-4/120851772.jpg",
+    "genre": "Romantic Action, Comedy",
+    "rating": 4.5,
+    "duration": "2h 20m",
+    "year": "2025",
+    "language": "Tamil",
+    "description": "Thalaivan Thalaivii is a Tamil-language romantic action comedy starring Vijay Sethupathi and Nithya Menen.",
+    "trailer": "https://youtu.be/sWT7S6T0Qzw?list=RDsWT7S6T0Qzw",
+    "cast": {
+      "lead": ["Vijay Sethupathi", "Nithya Menen"],
+      "supporting": ["Yogi Babu", "Saravanan", "R. K. Suresh", "Kaali Venkat", "Myna Nandhini", "Deepa Shankar", "Aruldoss", "Vinod Sagar"]
+    },
+    "crew": {
+      "director": "Pandiraj",
+      "writer": "Pandiraj",
+      "music": "Santhosh Narayanan",
+      "cinematography": "M. Sukumar",
+      "editor": "Pradeep E.Ragav"
+    }
+  },
+  {
+    "id": 6,
+    "title": "Coolie",
+    "poster": "https://in.bmscdn.com/events/moviecard/ET00395817.jpg",
+    "banner": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/coolie-et00395817-1755153511.jpg",
+    "genre": "Adventure, Action, Thriller",
+    "rating": 3.0,
+    "duration": "2h 35m",
+    "year": "2025",
+    "language": "Tamil",
+    "description": "Coolie is a 2025 action film starring Rajinikanth as Deva, who seeks revenge for his friend's suspicious death by infiltrating a powerful crime syndicate.",
+    "trailer": "https://youtu.be/qeVfT2iLiu0",
+    "cast": {
+      "lead": ["Rajinikanth"],
+      "supporting": ["Sathyaraj", "Nagarjuna Akkineni", "Soubin Shahir", "Upendra", "Aamir Khan", "Shruti Haasan"]
+    },
+    "crew": {
+      "director": "Lokesh Kanagaraj",
+      "writer": "Lokesh Kanagaraj",
+      "music": "Anirudh Ravichander",
+      "editor":"Philomin Raj"
+      
+    }
+  },
+  {
+    "id": 7,
+    "title": "Kantara",
+    "poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/kantara-a-legend-chapter-1-et00377351-1760336092.jpg",
+    "banner": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/kantara-a-legend-chapter-1-et00377351-1760336092.jpg",
+    "genre": "Adventure, Action, Thriller, Drama",
+    "rating": 5.0,
+    "duration": "2h 25m",
+    "year": "2022",
+    "language": "Kannada",
+    "description": "Kantara explores the ideological conflict between humans and nature, set in a fictional village in Karnataka, India.",
+    "trailer": "https://youtu.be/SYyxjTGl2qU",
+    "cast": {
+      "lead": ["Rishab Shetty"],
+      "supporting": ["Sapthami Gowda", "Kishore", "Achyuth Kumar", "Pramod Shetty"]
+    },
+    "crew": {
+      "director": "Rishab Shetty",
+      "music": "B. Ajaneesh Loknath",
+      "cinematography": "Arvind S. Kashyap"
+    }
+  },
+  {
+    "id": 8,
+    "title": "Lokah",
+    "poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/lokah-chapter-1--chandra-et00456016-1753856507.jpg",
+    "banner": "https://assets-in.bmscdn.com/discovery-catalog/events/et00456016-raczhmftxl-landscape.jpg",
+    "genre": "Superhero, Fantasy, Thriller",
+    "rating": 4.5,
+    "duration": "2h 10m",
+    "year": "2025",
+    "language": "Malayalam",
+    "description": "Lokah Chapter One: Chandra is a superhero film about a mysterious woman who arrives in Bengaluru with a secret mission.",
+    "trailer": "https://youtu.be/qCeEvbt0zec",
+    "cast": {
+      "lead": ["Kalyani Priyadarshan", "Naslen"],
+      "supporting": ["Chandu Salim Kumar", "Arun Kurian", "Nishanth Sagar", "Nithya Shri", "Sarath Sabha", "Sandy Master"]
+    },
+    "crew": {
+      "director": "Sreejith Vijayan",
+      "writer": "Sreejith Vijayan",
+      "music": "Shaan Rahman",
+      "cinematography": "Anishlal R.S.",
+      "editor": "Shyam Sasidharan"
+    }
+  },
+  {
+    "id": 9,
+    "title": "Vikram",
+    "poster": "https://pbs.twimg.com/media/FR_HtCwUYAAWt4Q.jpg",
+    "banner": "https://assets-in.bmscdn.com/discovery-catalog/events/et00138591-pnpelmkzuu-landscape.jpg",
+    "genre": "Action, Thriller, Drama, Mystery",
+    "rating": 4.5,
+    "duration": "2h 40m",
+    "year": "2022",
+    "language": "Tamil",
+    "description": "Vikram is a Tamil action thriller about a special investigator, Amar, who looks into a series of serial killings.",
+    "trailer": "https://youtu.be/OKBMCL-frPU",
+    "cast": {
+      "lead": ["Kamal Haasan"],
+      "supporting": ["Vijay Sethupathi", "Fahadh Faasil", "Suriya", "Narain", "Arjun Das", "Kalidas Jayaram"]
+    },
+    "crew": {
+      "director": "Lokesh Kanagaraj",
+      "music": "Anirudh Ravichander"
+    }
+  },
+  {
+    "id": 10,
+    "title": "Master",
+    "poster": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p17816200_p_v8_aa.jpg",
+    "banner": "https://assets-in.bmscdn.com/discovery-catalog/events/et00110368-esdqkhxaqc-landscape.jpg",
+    "genre": "Action, Drama",
+    "rating": 4.7,
+    "duration": "2h 50m",
+    "year": "2021",
+    "language": "Tamil",
+    "description": "Master follows an alcoholic professor who is sent to a juvenile school to reform students but faces a criminal overlord.",
+    "trailer": "https://youtu.be/n8sYkS3pJ50",
+    "cast": {
+      "lead": ["Vijay"],
+      "supporting": ["Vijay Sethupathi", "Malavika Mohanan", "Arjun Das", "Andrea Jeremiah", "Nassar", "Sanjeev", "Sriman"]
+    },
+    "crew": {
+      "director": "Lokesh Kanagaraj",
+      "music": "Anirudh Ravichander"
+    }
+  }
+]

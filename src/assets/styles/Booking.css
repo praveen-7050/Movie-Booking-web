@@ -1,0 +1,82 @@
+.booking-page {
+  background: linear-gradient(135deg, #0a0a0f 0%, #111121 100%);
+  color: #fff;
+  min-height: 100vh;
+  padding: 40px 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: 'Poppins', sans-serif;
+}
+
+.booking-page h2 {
+  font-size: 32px;
+  font-weight: 800;
+  margin-bottom: 25px;
+  text-align: center;
+  letter-spacing: 1px;
+}
+
+.summary-card {
+  width: 100%;
+  max-width: 420px;
+  padding: 25px;
+  border-radius: 16px;
+  background: rgba(255, 255, 255, 0.06);
+  backdrop-filter: blur(12px);
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.4);
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin-bottom: 30px;
+}
+
+.summary-card p {
+  font-size: 17px;
+  margin: 0;
+  display: flex;
+  justify-content: space-between;
+  opacity: 0.9;
+}
+
+.total-amount {
+  font-size: 20px;
+  font-weight: 700;
+  color: #00ff9d;
+  margin-top: 12px;
+}
+
+.btn-pay {
+  width: 100%;
+  background: linear-gradient(135deg, #ff3c00, #ff7a00);
+  border: none;
+  padding: 14px;
+  border-radius: 10px;
+  font-size: 18px;
+  font-weight: 700;
+  cursor: pointer;
+  margin-top: 25px;
+  transition: 0.25s ease-in-out;
+  color: #fff;
+}
+
+.btn-pay:hover {
+  transform: translateY(-3px) scale(1.02);
+  box-shadow: 0 5px 18px rgba(255, 76, 0, 0.5);
+}
+
+@media (max-width: 480px) {
+  .booking-page h2 {
+    font-size: 26px;
+  }
+  .summary-card {
+    padding: 20px;
+  }
+  .summary-card p {
+    font-size: 15px;
+  }
+  .btn-pay {
+    font-size: 16px;
+    padding: 12px;
+  }
+}

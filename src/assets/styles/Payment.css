@@ -1,0 +1,77 @@
+.payment-page {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: #0a0a0f;
+  color: #fff;
+  padding: 20px;
+}
+
+.payment-card {
+  background: #14141c;
+  padding: 30px 35px;
+  border-radius: 16px;
+  width: 100%;
+  max-width: 420px;
+  text-align: center;
+  box-shadow: 0 0 25px rgba(255, 255, 255, 0.15);
+}
+
+.payment-card h2 {
+  margin-bottom: 20px;
+  color: #ff3c00;
+}
+
+.payment-card p {
+  margin: 8px 0;
+  font-size: 17px;
+}
+
+.method-list {
+  margin: 20px 0;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.method-list label {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 16px;
+  background: rgba(255, 255, 255, 0.05);
+  padding: 10px 15px;
+  border-radius: 12px;
+  cursor: pointer;
+  transition: 0.2s ease-in-out;
+}
+
+.method-list label.active,
+.method-list label:hover {
+  background: linear-gradient(135deg, #ff3c00, #ff7a00);
+  color: #fff;
+  font-weight: 600;
+}
+
+.method-list input[type="radio"] {
+  accent-color: #ff3c00;
+}
+
+.pay-btn {
+  width: 100%;
+  padding: 14px;
+  background: linear-gradient(135deg, #ff3c00, #ff7a00);
+  color: #fff;
+  border: none;
+  font-size: 18px;
+  font-weight: 700;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: 0.25s ease-in-out;
+}
+
+.pay-btn:hover {
+  transform: translateY(-3px) scale(1.02);
+  box-shadow: 0 5px 18px rgba(255, 76, 0, 0.5);
+}
