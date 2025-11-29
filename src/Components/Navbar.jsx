@@ -6,7 +6,7 @@ const Navbar = () => {
     <nav className="navbar navbar-expand-lg shadow-sm sticky-top" style={{ backgroundColor: "#0a0a0f" }}>
       <div className="container">
         <Link className="navbar-brand fw-bold fs-4 d-flex align-items-center" to="/" style={{ color: "#ffffff" }}>
-          <img src="../public/images/cine-logo.png" alt="Logo" className="img-fluid me-2" style={{ width: "35px", height: "35px", objectFit: "contain" }} />
+          <img src="images/cine-logo.png" alt="Logo" className="img-fluid me-2" style={{ width: "35px", height: "35px", objectFit: "contain" }} />
           CineSpot
         </Link>
 
