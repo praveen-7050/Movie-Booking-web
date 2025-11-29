@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import "../assets/styles/home.css";
-import movies from "../Data/movies.json"
+import movies from "../../public/Data/movies.json";
 import { useNavigate } from "react-router-dom";
 
 // Mock data (as provided in the prompt)

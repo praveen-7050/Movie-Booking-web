@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { useNavigate, useParams, useLocation } from "react-router-dom";
-import movies from "../../data/movies.json";
+import movies from "../../../public/Data/movies.json";
 import "../../assets/styles/Seats.css";
 
 const totalSeats = 100;

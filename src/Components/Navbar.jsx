@@ -29,13 +29,13 @@ const Navbar = () => {
           </ul>
 
           <ul className="navbar-nav ms-auto d-flex flex-column flex-lg-row gap-2 gap-lg-0">
-            <li className="nav-item">
-              <Link className="btn btn-outline-light w-100 w-lg-auto" to="/login">
+            <li className="nav-item mx-2">
+              <Link className="btn btn-outline-light mx-2  w-100 w-lg-auto" to="/login">
                 Login
               </Link>
             </li>
             <li className="nav-item">
-              <Link className="btn btn-primary w-100 w-lg-auto" to="/signup">
+              <Link className="btn btn-primary w-100 mx-2 w-lg-auto" to="/signup">
                 Sign Up
               </Link>
             </li>
